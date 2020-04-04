@@ -3,6 +3,7 @@
 /dist/
 /sycki.com.html/
 /*.tar.gz
+/*.tar
 
 # local env files
 .env.local

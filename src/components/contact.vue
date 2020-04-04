@@ -10,13 +10,13 @@
                             style="justify-content: space-between;">
                             <v-col>
                             <v-card-title>
-                            电话：18510926850
-                            </v-card-title>
-                            <v-card-title>
                             邮箱：kxdmmr@163.com
                             </v-card-title>
                             <v-card-title>
                             微信：kxdmmr
+                            </v-card-title>
+                            <v-card-title>
+                            QQ：641716501
                             </v-card-title>
                             </v-col>
                         </v-row>
